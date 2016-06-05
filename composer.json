@@ -1,0 +1,13 @@
+{
+    "name": "xiaozha/composer_test",
+    "description": "xiaozha first test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiaozha",
+            "email": "304270703@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
