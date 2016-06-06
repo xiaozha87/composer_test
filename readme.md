@@ -1,3 +1,3 @@
 # Hello World Package for PHP Composer #
 
-HAHAHA,This is a hello world package for php composer beginners tutorial.
+0.1HAHAHA,This is a hello world package for php composer beginners tutorial.
