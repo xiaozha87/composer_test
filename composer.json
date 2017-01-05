@@ -8,6 +8,15 @@
             "email": "304270703@qq.com"
         }
     ],
+	"autoload": {
+		"psr-4": {"Xiaozha\\Composer_test\\": "src"}
+	},
     "minimum-stability": "stable",
-    "require": {}
+    "require": {},
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
 }
